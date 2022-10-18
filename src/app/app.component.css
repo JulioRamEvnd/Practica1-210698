@@ -1,0 +1,19 @@
+
+.col {
+    margin: 0;
+    
+    font-family: sans-serif;
+   
+    position: relative;
+    padding-bottom: 2em;
+
+}
+.fill{
+    height: 100vh;
+}
+.panel_contenido{
+        height: 8+0vh;
+overflow: auto;
+
+    }
+  
